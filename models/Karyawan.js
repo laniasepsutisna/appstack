@@ -5,6 +5,14 @@ const karyawanSchema = new mongoose.Schema({
         type: String,
         required: true
     },
+    email: {
+        type: String,
+        required: true
+    },
+    password: {
+        type: String,
+        required: true
+    },
     npp: {
         type: Number,
         required: true
@@ -22,3 +30,5 @@ const karyawanSchema = new mongoose.Schema({
         required: true
     }
 })
+
+module.exports = mongoose.model("Karyawan", karyawanSchema);

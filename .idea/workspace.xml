@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d2f7f8b-52ad-4462-b251-6f1f5ad1442d" name="Default Changelist" comment="" />
+    <list default="true" id="4d2f7f8b-52ad-4462-b251-6f1f5ad1442d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/controllers/KaryawanController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/pages/karyawan/add_modal.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/crud-karyawan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/appstack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Karyawan.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Karyawan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/karyawan.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/karyawan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/error.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/header.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/pages/karyawan/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/pages/karyawan/index.ejs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,16 +43,22 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/app.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/views/pages/home/index.ejs" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/pages/karyawan/index.ejs" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/pages/karyawan/add_modal.ejs" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1opN0V2vsVvYR0eH67oEcrXK1lh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -65,7 +86,8 @@
       <updated>1613979348990</updated>
       <workItem from="1613979350118" duration="8211000" />
       <workItem from="1613987743202" duration="65000" />
-      <workItem from="1613987847292" duration="3261000" />
+      <workItem from="1613987847292" duration="8847000" />
+      <workItem from="1613997296776" duration="1727000" />
     </task>
     <servers />
   </component>
@@ -82,5 +104,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

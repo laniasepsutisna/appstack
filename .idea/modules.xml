@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/crud-karyawan.iml" filepath="$PROJECT_DIR$/.idea/crud-karyawan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/appstack.iml" filepath="$PROJECT_DIR$/.idea/appstack.iml" />
     </modules>
   </component>
 </project>
